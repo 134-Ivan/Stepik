@@ -8,7 +8,7 @@ class ListObject:
     def link(self, obj):
         self.next_obj = obj
 
-
+# считывание списка из входного потока (эту строку не менять)
 lst_in = list(map(str.strip, sys.stdin.readlines()))
 
 #
