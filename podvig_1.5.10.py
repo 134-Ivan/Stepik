@@ -1,3 +1,6 @@
+# la la la
+
+
 from random import randint
 
 class Cell:
